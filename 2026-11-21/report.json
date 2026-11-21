@@ -1,0 +1,488 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T13:50:56+08:00",
+  "target": 5,
+  "saved": 5,
+  "output_dir": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-21",
+  "sources": [
+    {
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/rss",
+      "found": 10,
+      "error": ""
+    },
+    {
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/rss",
+      "found": 10,
+      "error": ""
+    },
+    {
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/rss",
+      "found": 10,
+      "error": ""
+    },
+    {
+      "source": "The New Yorker",
+      "url": "https://www.newyorker.com/feed/everything",
+      "found": 10,
+      "error": ""
+    },
+    {
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/",
+      "found": 10,
+      "error": ""
+    },
+    {
+      "source": "The Economist",
+      "url": "https://www.economist.com/rss",
+      "found": 0,
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.economist.com/rss"
+    },
+    {
+      "source": "BBC News",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "found": 10,
+      "error": ""
+    },
+    {
+      "source": "NPR",
+      "url": "https://feeds.npr.org/1001/rss.xml",
+      "found": 10,
+      "error": ""
+    },
+    {
+      "source": "Quanta Magazine",
+      "url": "https://api.quantamagazine.org/feed/",
+      "found": 5,
+      "error": ""
+    },
+    {
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/feed/",
+      "found": 10,
+      "error": ""
+    },
+    {
+      "source": "The Conversation",
+      "url": "https://theconversation.com/articles.atom",
+      "found": 10,
+      "error": ""
+    },
+    {
+      "source": "Nature",
+      "url": "https://www.nature.com/nature.rss",
+      "found": 10,
+      "error": ""
+    }
+  ],
+  "articles": [
+    {
+      "status": "saved",
+      "source": "The Guardian",
+      "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
+      "author": "José Olivares",
+      "published": "2026-11-20",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
+      "path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-21\\01_the-guardian_2026-11-20_weak-and-dizzy-the-secretive-ice-force-feeding-tactics-that-ended-a-cuba.md",
+      "word_count": 2443,
+      "paragraphs": 54,
+      "json_path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-21\\01_the-guardian_2026-11-20_weak-and-dizzy-the-secretive-ice-force-feeding-tactics-that-ended-a-cuba.json"
+    },
+    {
+      "status": "saved",
+      "source": "The New Yorker",
+      "title": "The Case for A.I. Optimism",
+      "author": "David Remnick",
+      "published": "2026-11-20",
+      "url": "https://www.newyorker.com/culture/the-new-yorker-interview/the-case-for-ai-optimism",
+      "path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-21\\02_the-new-yorker_2026-11-20_the-case-for-a-i-optimism.md",
+      "word_count": 4824,
+      "paragraphs": 84,
+      "json_path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-21\\02_the-new-yorker_2026-11-20_the-case-for-a-i-optimism.json"
+    },
+    {
+      "status": "saved",
+      "source": "Scientific American",
+      "title": "The race to understand why young people are dying from colon cancer",
+      "author": "Lauren J Young",
+      "published": "2026-11-17",
+      "url": "https://www.scientificamerican.com/article/colon-cancer-in-young-people-might-have-a-distinct-and-dangerous-biology",
+      "path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-21\\03_scientific-american_2026-11-17_the-race-to-understand-why-young-people-are-dying-from-colon-cancer.md",
+      "word_count": 2934,
+      "paragraphs": 46,
+      "json_path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-21\\03_scientific-american_2026-11-17_the-race-to-understand-why-young-people-are-dying-from-colon-cancer.json"
+    },
+    {
+      "status": "saved",
+      "source": "BBC News",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "author": "Rachel Clun; Jemma Crew",
+      "published": "2026-11-20",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+      "path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-21\\04_bbc-news_2026-11-20_tech-stock-sell-off-drags-markets-down-as-anthropic-shares-slide.md",
+      "word_count": 722,
+      "paragraphs": 23,
+      "json_path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-21\\04_bbc-news_2026-11-20_tech-stock-sell-off-drags-markets-down-as-anthropic-shares-slide.json"
+    },
+    {
+      "status": "saved",
+      "source": "NPR",
+      "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+      "author": "The Associated Press",
+      "published": "2026-11-20",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+      "path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-21\\05_npr_2026-11-20_s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year.md",
+      "word_count": 908,
+      "paragraphs": 21,
+      "json_path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-21\\05_npr_2026-11-20_s-p-500-sinks-3-7-and-the-nasdaq-composite-goes-negative-for-the-year.json"
+    }
+  ],
+  "skipped": [
+    {
+      "status": "skipped",
+      "source": "The Guardian",
+      "title": "California’s coastal communities on alert as biggest waves in years hit state",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
+      "reason": "too few paragraphs (4 < 5)"
+    },
+    {
+      "status": "skipped",
+      "source": "The New Yorker",
+      "title": "Senator Raphael Warnock on How Democrats Won Across the South",
+      "url": "https://www.newyorker.com/podcast/political-scene/senator-raphael-warnock-on-how-democrats-won-across-the-south",
+      "reason": "podcast/cartoon/guide/short-form item, not a full article"
+    },
+    {
+      "status": "skipped",
+      "source": "The New Yorker",
+      "title": "Is the F.A.A. Grounding the First of Many?",
+      "url": "https://www.newyorker.com/podcast/political-scene/is-the-faa-grounding-the-first-of-many",
+      "reason": "podcast/cartoon/guide/short-form item, not a full article"
+    },
+    {
+      "status": "skipped",
+      "source": "Scientific American",
+      "title": "The AI Riemann hypothesis proof is almost certainly true, independent mathematicians attest",
+      "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/",
+      "reason": "too short (397 words < 400), likely teaser or podcast transcript"
+    },
+    {
+      "status": "skipped",
+      "source": "Scientific American",
+      "title": "Dueling claims of Riemann hypothesis proofs emerge",
+      "url": "https://www.scientificamerican.com/article/dueling-claims-of-riemann-hypothesis-proofs-emerge/",
+      "reason": "too short (331 words < 400), likely teaser or podcast transcript"
+    },
+    {
+      "status": "skipped",
+      "source": "The New Yorker",
+      "title": "A Meeting with Venezuela’s Delcy Rodríguez",
+      "url": "https://www.newyorker.com/podcast/the-new-yorker-radio-hour/a-meeting-with-venezuelas-delcy-rodriguez",
+      "reason": "podcast/cartoon/guide/short-form item, not a full article"
+    },
+    {
+      "status": "skipped",
+      "source": "The New Yorker",
+      "title": "Daily Cartoon: Friday, November 20th",
+      "url": "https://www.newyorker.com/cartoons/daily-cartoon/friday-november-20th-no-injury-to-shareholders",
+      "reason": "podcast/cartoon/guide/short-form item, not a full article"
+    },
+    {
+      "status": "skipped",
+      "source": "The New Yorker",
+      "title": "Big Belly, Big Shame",
+      "url": "https://www.newyorker.com/humor/sketchbook/big-belly-big-shame",
+      "reason": "body too short (411 chars < 1200), likely truncated or non-article"
+    },
+    {
+      "status": "skipped",
+      "source": "The New Yorker",
+      "title": "Have Yourself a Kitschy Little Christmas",
+      "url": "https://www.newyorker.com/culture/gift-guides/have-yourself-a-kitschy-little-christmas",
+      "reason": "podcast/cartoon/guide/short-form item, not a full article"
+    },
+    {
+      "status": "skipped",
+      "source": "The New Yorker",
+      "title": "A Diagnosis Unravels Reality in “With Tapes and Toasts in the Car”",
+      "url": "https://www.newyorker.com/culture/screening-room/a-diagnosis-unravels-reality-in-with-tapes-and-toasts-in-the-car",
+      "reason": "too few paragraphs (3 < 5)"
+    },
+    {
+      "status": "skipped",
+      "source": "Scientific American",
+      "title": "After months of controversy, AI finally solved the ‘real’ Navier-Stokes problem",
+      "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/",
+      "reason": "too short (328 words < 400), likely teaser or podcast transcript"
+    },
+    {
+      "status": "skipped",
+      "source": "Nature",
+      "title": "How AI is affecting science careers",
+      "url": "https://www.nature.com/articles/d41586-026-03680-1",
+      "reason": "body too short (1198 chars < 1200), likely truncated or non-article"
+    },
+    {
+      "status": "skipped",
+      "source": "NPR",
+      "title": "The latest from Trump's press conference",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+      "reason": "transcript-style page (18 speaker labels), not a standard article"
+    },
+    {
+      "status": "skipped",
+      "source": "Nature",
+      "title": "Lifting weights reduces muscle loss from obesity drugs",
+      "url": "https://www.nature.com/articles/d41586-026-03751-3",
+      "reason": "body too short (482 chars < 1200), likely truncated or non-article"
+    },
+    {
+      "status": "skipped",
+      "source": "NPR",
+      "title": "Rising seas have forced this Quinault village to relocate",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
+      "reason": "transcript-style page (23 speaker labels), not a standard article"
+    },
+    {
+      "status": "skipped",
+      "source": "Nature",
+      "title": "Briefing Chat: Voyager 1 is now one ‘light day’ from Earth — setting a cosmic record",
+      "url": "https://www.nature.com/articles/d41586-026-03806-5",
+      "reason": "body too short (566 chars < 1200), likely truncated or non-article"
+    },
+    {
+      "status": "skipped",
+      "source": "NPR",
+      "title": "Trump's impact on an Ohio steel plant",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
+      "reason": "transcript-style page (21 speaker labels), not a standard article"
+    },
+    {
+      "status": "skipped",
+      "source": "Nature",
+      "title": "Fraud helps little fire ants to survive and conquer",
+      "url": "https://www.nature.com/articles/d41586-026-03776-8",
+      "reason": "body too short (457 chars < 1200), likely truncated or non-article"
+    },
+    {
+      "status": "skipped",
+      "source": "The Guardian",
+      "title": "‘We’re the most arrogant of all apes!’ A delightfully mind-expanding encounter with Peter Gabriel",
+      "url": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The Guardian",
+      "title": "Will AI break the internet? | Garrison Lovely",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/20/ai-internet-outages-apocalypse",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The Guardian",
+      "title": "Race to be next UN secretary general exposes divisions among world powers",
+      "url": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The Guardian",
+      "title": "Race to replant five South African baobabs after export blocked",
+      "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The Guardian",
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The Guardian",
+      "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The Guardian",
+      "title": "California investigates Nvidia over whether chip exports ended up in China",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The Guardian",
+      "title": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The New Yorker",
+      "title": "The Look-at-Me Spectacle of Actors Playing Actors in “Elsinore” and “I Play Rocky”",
+      "url": "https://www.newyorker.com/culture/the-current-cinema/the-look-at-me-spectacle-of-actors-playing-actors-in-elsinore-and-i-play-rocky",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The New Yorker",
+      "title": "Dinner and “The Dead”",
+      "url": "https://www.newyorker.com/culture/goings-on/dinner-and-the-dead",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Scientific American",
+      "title": "This beguiling chessboard math problem is still puzzling after 120 years",
+      "url": "https://www.scientificamerican.com/article/this-beguiling-chessboard-math-problem-is-still-puzzling-after-120-years/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Scientific American",
+      "title": "The FAA is upgrading air traffic control on the fly. What could go wrong?",
+      "url": "https://www.scientificamerican.com/article/faa-ground-stop-suggests-how-risky-air-traffic-control-upgrades-can-be/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Scientific American",
+      "title": "Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math",
+      "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Scientific American",
+      "title": "What does a solution to the Riemann hypothesis mean for you?",
+      "url": "https://www.scientificamerican.com/article/what-the-riemann-hypothesis-proof-really-means-about-ai-and-the-future/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Scientific American",
+      "title": "The U.S. Army is about to blow up a cache of dangerous lead azide in Iowa—here’s what to know",
+      "url": "https://www.scientificamerican.com/article/the-u-s-army-is-about-to-blow-up-a-cache-of-dangerous-lead-azide-in-iowa-heres-what-to-know/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Scientific American",
+      "title": "Math Puzzle: The longest shuffle",
+      "url": "https://www.scientificamerican.com/article/math-puzzle-longest-shuffle/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "BBC News",
+      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "BBC News",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "BBC News",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Quanta Magazine",
+      "title": "Can Network Science Transform Health and Nutrition?",
+      "url": "https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Quanta Magazine",
+      "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
+      "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Quanta Magazine",
+      "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+      "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Quanta Magazine",
+      "title": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds",
+      "url": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "MIT Technology Review",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "MIT Technology Review",
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "MIT Technology Review",
+      "title": "The Download: inside the quest to make our minds immortal",
+      "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "MIT Technology Review",
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The Conversation",
+      "title": "Why Taiwanese firms are reluctant to leave China, even as tensions rise",
+      "url": "https://theconversation.com/why-taiwanese-firms-are-reluctant-to-leave-china-even-as-tensions-rise-297000",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The Conversation",
+      "title": "Whether it’s ‘Sister’ or your own sister, the burden that caring for aging parents puts on women is no joke",
+      "url": "https://theconversation.com/whether-its-sister-or-your-own-sister-the-burden-that-caring-for-aging-parents-puts-on-women-is-no-joke-297041",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The Conversation",
+      "title": "Your Mother Your Mother Your Mother: the sacred and profane collide in this off-kilter hitman drama",
+      "url": "https://theconversation.com/your-mother-your-mother-your-mother-the-sacred-and-profane-collide-in-this-off-kilter-hitman-drama-297115",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The Conversation",
+      "title": "Alcohol addiction and eating disorders often go hand in hand – here’s why",
+      "url": "https://theconversation.com/alcohol-addiction-and-eating-disorders-often-go-hand-in-hand-heres-why-294584",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    }
+  ]
+}
