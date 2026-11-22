@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T16:04:07+08:00",
+  "count": 5,
+  "selection_policy": "Full-text, free-to-read English features/essays >=700 words, published within 48h of edition date; excluded podcasts, video, sponsored content, briefs and paywalled/registration-gated pieces; cross-day URL/title dedupe.",
+  "selected": [
+    {
+      "source": "Quanta Magazine",
+      "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+      "published": "2026-11-20",
+      "word_count": 1696,
+      "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/"
+    },
+    {
+      "source": "NPR",
+      "title": "Anthropic says it will put humanity first. Will its IPO change that?",
+      "published": "2026-11-21",
+      "word_count": 1690,
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety"
+    },
+    {
+      "source": "ProPublica",
+      "title": "Why Is the World Still Counting on Unproven Carbon Capture Technology?",
+      "published": "2026-11-21",
+      "word_count": 1339,
+      "url": "https://www.propublica.org/article/carbon-capture-and-storage-climate-models"
+    },
+    {
+      "source": "Smithsonian Magazine",
+      "title": "One of Hilma af Klint’s Amazingly Rare Abstract Paintings Sold for a Record $12.7 Million at Auction. But Should It Have Been on Sale at All?",
+      "published": "2026-11-20",
+      "word_count": 867,
+      "url": "https://www.smithsonianmag.com/smart-news/one-of-hilma-al-klint-amazingly-rare-abstract-painting-sold-for-a-record-12-million-at-auctionbut-should-it-have-been-on-sale-at-all-180989922/"
+    },
+    {
+      "source": "NPR",
+      "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
+      "published": "2026-11-21",
+      "word_count": 1055,
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact"
+    }
+  ],
+  "considered_but_excluded": [
+    {
+      "source": "The Guardian",
+      "reason": "network unreachable from runtime at fetch time"
+    },
+    {
+      "source": "The New Yorker",
+      "reason": "network unreachable from runtime at fetch time"
+    },
+    {
+      "source": "The Economist",
+      "reason": "network unreachable from runtime at fetch time"
+    },
+    {
+      "source": "BBC News",
+      "reason": "network unreachable from runtime at fetch time"
+    },
+    {
+      "source": "Nature",
+      "title": "Mathematicians astounded by AI and human-written proofs of iconic Riemann hypothesis",
+      "reason": "login/registration gate appended; full text not reliably available"
+    },
+    {
+      "source": "Nature",
+      "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
+      "reason": "short (361 words)"
+    },
+    {
+      "source": "Scientific American",
+      "title": "Weirdly accelerating space rock keeps puzzling astronomers",
+      "reason": "paywall metadata flagged; not accepted to avoid partial access"
+    },
+    {
+      "source": "MIT Technology Review",
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "reason": "paywall metadata flagged; not accepted to avoid partial access"
+    },
+    {
+      "source": "Aeon",
+      "reason": "HTTP 403 to fetcher; full text not retrievable"
+    },
+    {
+      "source": "NPR",
+      "title": "You Can Seize Everything (The U.S. is reviving pirate law)",
+      "reason": "broadcast/transcript page, 248 words"
+    },
+    {
+      "source": "NPR",
+      "title": "Killer robots: U.N. talks fall short...",
+      "reason": "short (701 words) for long-form digest"
+    },
+    {
+      "source": "ProPublica",
+      "title": "A Texas Police Department Got $100K After a Single Immigration Arrest...",
+      "reason": "shorter news item, not selected"
+    }
+  ],
+  "dedupe": "Checked selected URLs/titles against 2026-11-21 and the earlier 2026-11-22 edition; no overlap.",
+  "note": "No 2026-11-22-dated features were published/fetchable at 16:00 CST (Sunday); newest free full-text pieces from 2026-11-20/21 were used and publication dates are preserved exactly."
+}
