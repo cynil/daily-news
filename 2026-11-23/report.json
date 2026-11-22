@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T07:21:01+08:00",
+  "requested": 5,
+  "selected": 5,
+  "criteria": {
+    "full_text_only": true,
+    "exclude_paywalled": true,
+    "exclude_podcast_video": true,
+    "exclude_sponsored_or_advertorial": true,
+    "exclude_short": "低于约900词不选",
+    "cross_day_dedup": true
+  },
+  "screened_out": [
+    {
+      "source": "Scientific American",
+      "title": "Quantum physics can now prove where you really are",
+      "reason": "全文仅约675词，偏短；未选"
+    },
+    {
+      "source": "The Guardian",
+      "title": "site unavailable from this network at fetch time",
+      "reason": "网络不可达，未能取得全文；不伪造"
+    },
+    {
+      "source": "The New Yorker",
+      "title": "site unavailable from this network at fetch time",
+      "reason": "网络不可达，未能取得全文；不伪造"
+    },
+    {
+      "source": "The Economist",
+      "title": "site unavailable from this network at fetch time",
+      "reason": "网络不可达/付费墙风险，未取得全文；不伪造"
+    },
+    {
+      "source": "NPR",
+      "title": "What it's like at a climate conference as talks collapse",
+      "reason": "与已选COP31稿同题重复；未选"
+    },
+    {
+      "source": "NPR",
+      "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+      "reason": "服务性/接近软广，未选"
+    }
+  ],
+  "notes": [
+    "抓取时点为2026-11-23 07:xx +08:00，美国媒体仍处11-22新闻周期，故published为2026-11-22。",
+    "所有正文由文章页HTML解析，保留段落和原有小标题；未改写、未编造。",
+    "NPR与WIRED页面均可公开读取全文，未见付费墙。"
+  ],
+  "articles": [
+    {
+      "title": "He expected a small-business loan. He got a 7-year nightmare",
+      "source": "NPR",
+      "word_count": 2621,
+      "url": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+      "blocks": 98
+    },
+    {
+      "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
+      "source": "WIRED",
+      "word_count": 1910,
+      "url": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+      "blocks": 23
+    },
+    {
+      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+      "source": "NPR",
+      "word_count": 1336,
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+      "blocks": 48
+    },
+    {
+      "title": "Banks Have Had It Up to Here With Your AI Agent",
+      "source": "WIRED",
+      "word_count": 967,
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "blocks": 16
+    },
+    {
+      "title": "Climate change talks fall apart in final hours over fossil fuels",
+      "source": "NPR",
+      "word_count": 1288,
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+      "blocks": 39
+    }
+  ]
+}
