@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T04:05:05+08:00",
+  "requested": 5,
+  "selected": 5,
+  "criteria": {
+    "full_text_only": true,
+    "exclude_paywalled": true,
+    "exclude_podcast_video_gallery": true,
+    "exclude_sponsored_or_advertorial": true,
+    "exclude_short": "正文低于约900词不选",
+    "cross_day_dedup": true,
+    "cross_source_topic_dedup": true
+  },
+  "screened_out": [
+    {
+      "source": "The Guardian",
+      "title": "(不可达)",
+      "reason": "www.theguardian.com 在本环境持续连接失败（DNS可解析但TCP连接被重置），无法取得全文；不伪造。"
+    },
+    {
+      "source": "The New Yorker",
+      "title": "(不可达)",
+      "reason": "www.newyorker.com 连接失败，未能取得全文；不伪造。"
+    },
+    {
+      "source": "The Economist",
+      "title": "(不可达)",
+      "reason": "www.economist.com 连接失败且多数内容有付费墙，未取得全文；不伪造。"
+    },
+    {
+      "source": "BBC News",
+      "title": "(不可达)",
+      "reason": "feeds.bbci.co.uk / www.bbc.com 连接失败，未取得全文；不伪造。"
+    },
+    {
+      "source": "The Atlantic",
+      "title": "(不可达)",
+      "reason": "www.theatlantic.com 连接失败，未取得全文；不伪造。"
+    },
+    {
+      "source": "WIRED",
+      "title": "Jensen Huang Is Back, and So Is Nvidia's Stock",
+      "reason": "短讯，约数百词，低于长度门槛；未选。"
+    },
+    {
+      "source": "NPR",
+      "title": "Trump claims credit as Jensen Huang returns to Nvidia",
+      "reason": "与WIRED同一Nvidia人事新闻重复，且偏短；未选。"
+    },
+    {
+      "source": "NPR",
+      "title": "'Medicare for all' is back on the drawing board...",
+      "reason": "1109词，质量合格；因同日已有5篇更长/更独家稿件而未入选（备选）。"
+    },
+    {
+      "source": "NPR",
+      "title": "Mushroom supplements promise health benefits. What does the science say?",
+      "reason": "948词，低于约900词门槛边缘且偏服务性；未选。"
+    },
+    {
+      "source": "Scientific American",
+      "title": "The U.S. Army Is About to Blow Up a Cache of Dangerous Lead Azide in Iowa",
+      "reason": "与已选WIRED爱荷华铅叠氮化物调查同题重复；未选。"
+    },
+    {
+      "source": "Scientific American",
+      "title": "A watershed moment: Researchers unveil first-of-its-kind blood test for CTE",
+      "reason": "608词，偏短；未选。"
+    },
+    {
+      "source": "Scientific American",
+      "title": "We've been wrong about how language is produced in the brain for 150 years",
+      "reason": "907词，但发布于2026-11-19，非当日窗口；未选。"
+    },
+    {
+      "source": "Scientific American",
+      "title": "Why so many critical tech outages are happening all at once",
+      "reason": "799词，偏短且发布于2026-11-18；未选。"
+    },
+    {
+      "source": "Scientific American",
+      "title": "Neanderthal DNA linked to lower risk of schizophrenia in modern humans",
+      "reason": "507词，偏短且发布于2026-11-16；未选。"
+    },
+    {
+      "source": "Scientific American",
+      "title": "Colon cancer in young people might have a distinct and dangerous biology",
+      "reason": "与2026-11-21已发布的SciAm结肠癌稿同题重复；未选。"
+    },
+    {
+      "source": "Scientific American",
+      "title": "Can the Amazon rainforest survive the largest El Niño in living memory?",
+      "reason": "与2026-11-23已发布的WIRED超级厄尔尼诺稿同题重复；未选。"
+    },
+    {
+      "source": "Quanta Magazine",
+      "title": "Network Researchers Nail Down Theory of 'Perfect Resilience'",
+      "reason": "发布于2026-11-20，属跨天重复窗口内旧稿；未选。"
+    },
+    {
+      "source": "Smithsonian Magazine",
+      "title": "(多条)",
+      "reason": "均为500词左右的短讯，未达长度门槛；未选。"
+    }
+  ],
+  "notes": [
+    "抓取时点为 2026-11-24T04:05:05+08:00（UTC+8），此时美国新闻编辑室仍处于2026-11-23新闻周期；本轮可访问的英文媒体最新稿件均为2026-11-23发布，故文章published为2026-11-23，content.json的date为2026-11-24。",
+    "所有正文由文章页HTML用trafilatura抽取，保留原段落与小标题；仅删除订阅/播客推广等页面噪声，未改写、未编造。",
+    "已核对WIRED页面JSON-LD的articleBody与抽取正文词数一致（1581词），确认非付费墙截断。",
+    "Scientific American正文中的“On supporting science journalism”订阅插页已剔除。",
+    "当日选取5篇，达到5篇目标；不足时本报告会如实记录缺口原因。"
+  ],
+  "articles": [
+    {
+      "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
+      "source": "Quanta Magazine",
+      "word_count": 1672,
+      "url": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
+      "blocks": 27
+    },
+    {
+      "title": "A Former DOGE Operative Won a Federal Contract. Then Things Got Messy",
+      "source": "WIRED",
+      "word_count": 1581,
+      "url": "https://www.wired.com/story/he-worked-with-doge-now-hes-bidding-for-government-contracts/",
+      "blocks": 23
+    },
+    {
+      "title": "Seniors embrace Tesla automated driving technology despite questions about safety",
+      "source": "NPR",
+      "word_count": 1157,
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
+      "blocks": 36
+    },
+    {
+      "title": "The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead",
+      "source": "WIRED",
+      "word_count": 1063,
+      "url": "https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/",
+      "blocks": 19
+    },
+    {
+      "title": "What’s really driving the Ebola outbreak?",
+      "source": "Scientific American",
+      "word_count": 956,
+      "url": "https://www.scientificamerican.com/article/whats-really-driving-the-ebola-outbreak/",
+      "blocks": 19
+    }
+  ]
+}
