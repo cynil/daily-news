@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T04:07:04+08:00",
+  "requested": 5,
+  "task_minimum": 3,
+  "selected": 5,
+  "source_repo": "https://github.com/hehonghui/awesome-english-ebooks",
+  "issues_used": [
+    {
+      "publication": "The Economist",
+      "issue": "2026-11-21",
+      "file": "01_economist/te_2026.11.21/TheEconomist.2026.11.21.epub"
+    },
+    {
+      "publication": "The New Yorker",
+      "issue": "2026-11-16",
+      "file": "02_new_yorker/2026.11.16/new_yorker.2026.11.16.epub"
+    }
+  ],
+  "criteria": {
+    "full_text_only": true,
+    "exclude_paywalled": true,
+    "exclude_podcast_video_gallery": true,
+    "exclude_sponsored_or_advertorial": true,
+    "exclude_short": "正文低于约900词不选；排除简讯、榜单、诗歌、漫画与填字游戏",
+    "exclude_fiction": "小说不作为新闻/非虚构文章收录",
+    "cross_day_dedup": true,
+    "dedup_scope": "2026-11-21、2026-11-22、2026-11-23、2026-11-24 已发布 content.json（GitHub gh-pages）以及工作区历史目录",
+    "cross_source_topic_dedup": true
+  },
+  "selected_articles": [
+    {
+      "source": "The New Yorker",
+      "title": "An N.B.A. Player Got Hooked on Sports Betting. Soon, He Became the Bet",
+      "published": "2026-11-16",
+      "word_count": 10823,
+      "url": "https://www.newyorker.com/magazine/2026/11/16/the-nba-player-who-got-hooked-on-sports-betting"
+    },
+    {
+      "source": "The New Yorker",
+      "title": "The Ubiquitous Melancholy of Max Richter",
+      "published": "2026-11-16",
+      "word_count": 4751,
+      "url": "https://www.newyorker.com/magazine/2026/11/16/the-ubiquitous-melancholy-of-max-richter"
+    },
+    {
+      "source": "The Economist",
+      "title": "“Grand Theft Auto VI” may mark the end of an era in gaming",
+      "published": "2026-11-18",
+      "word_count": 1225,
+      "url": "https://www.economist.com/culture/2026/11/18/grand-theft-auto-vi-may-mark-the-end-of-an-era-in-gaming"
+    },
+    {
+      "source": "The Economist",
+      "title": "How Ukraine brought out the EU’s stubborn streak",
+      "published": "2026-11-19",
+      "word_count": 968,
+      "url": "https://www.economist.com/europe/2026/11/19/how-ukraine-brought-out-the-eus-stubborn-streak"
+    },
+    {
+      "source": "The Economist",
+      "title": "The next stop for Europe’s failed asylum-seekers: Rwanda",
+      "published": "2026-11-17",
+      "word_count": 947,
+      "url": "https://www.economist.com/europe/2026/11/17/the-next-stop-for-europes-failed-asylum-seekers-rwanda"
+    }
+  ],
+  "screened_out": [
+    {
+      "source": "The Economist",
+      "title": "How China continues to evade America’s tech-export rules",
+      "reason": "与 2026-11-23 已发布文章同题重复（跨天去重）；本篇正文虽优质，仍不重复收录。"
+    },
+    {
+      "source": "The New Yorker",
+      "title": "Can American Socialism Survive Its Success?",
+      "reason": "与 2026-11-23 已发布文章同题重复。"
+    },
+    {
+      "source": "The New Yorker",
+      "title": "What It Takes to Save a Town from Wildfire",
+      "reason": "与 2026-11-23 已发布文章同题重复。"
+    },
+    {
+      "source": "The Economist",
+      "title": "A new axis of malice threatens the global order",
+      "reason": "与 2026-11-23 已发布文章同题重复。"
+    },
+    {
+      "source": "The Economist",
+      "title": "America has slashed funding for biomedical science abroad",
+      "reason": "与 2026-11-23 已发布文章同题重复。"
+    },
+    {
+      "source": "The Economist",
+      "title": "America does not produce world-beating statistics. Who does?",
+      "reason": "与 2026-11-24 已发布文章同题重复。"
+    },
+    {
+      "source": "The Economist",
+      "title": "Climate change is making some African deserts greener",
+      "reason": "与 2026-11-24 已发布文章同题重复。"
+    },
+    {
+      "source": "The New Yorker",
+      "title": "Why Are We So Good at Feeling Bad?",
+      "reason": "与 2026-11-24 已发布文章同题重复。"
+    },
+    {
+      "source": "The New Yorker",
+      "title": "The Lasting Influence of John Berger",
+      "reason": "与 2026-11-24 已发布文章同题重复。"
+    },
+    {
+      "source": "The New Yorker",
+      "title": "Breaking the Decade-Long Trump Fever",
+      "reason": "与 2026-11-24 已发布文章同题重复。"
+    },
+    {
+      "source": "The New Yorker",
+      "title": "The Death of a Certain Woman",
+      "reason": "5,236 词，但属虚构小说（Fiction），不符合“英文文章/非虚构阅读”定位；未选。"
+    },
+    {
+      "source": "The New Yorker",
+      "title": "Goings On",
+      "reason": "1,548 词的 newsletter 汇编，非单篇文章；未选。"
+    },
+    {
+      "source": "The New Yorker",
+      "title": "The Best Mystery Novels of the Twenty-first Century",
+      "reason": "799 词书单，偏短且为榜单汇编；未选。"
+    },
+    {
+      "source": "The New Yorker",
+      "title": "Talk of the Town 各短栏（Breaking the Decade-Long Trump Fever 等）",
+      "reason": "约 700–870 词，属短栏；未选（其中 Trump Fever 亦与 11-24 重复）。"
+    },
+    {
+      "source": "The New Yorker",
+      "title": "Briefly Noted",
+      "reason": "487 词短评汇编；未选。"
+    },
+    {
+      "source": "The Economist",
+      "title": "The world this week / Politics / Business",
+      "reason": "新闻摘要与分区简讯，非完整文章；未选。"
+    },
+    {
+      "source": "The Economist",
+      "title": "Cartoon / The World Ahead / 优质App推荐 / zlibrary 下载注记",
+      "reason": "漫画、预告、广告与下载水印，均从正文剔除且不作为文章。"
+    }
+  ],
+  "dedup_checked_dates": [
+    "2026-11-21",
+    "2026-11-22",
+    "2026-11-23",
+    "2026-11-24"
+  ],
+  "notes": [
+    "文本直接取自仓库内 EPUB 全文（非网页抓取），因此不存在付费墙截断；Economist/New Yorker 官网在本环境直连被阻断，EPUB 为可靠全文来源。",
+    "The New Yorker 的 N.B.A. 长文在 EPUB 中无作者署名（转换时署名页缺失），author 按刊名记为 The New Yorker，未虚构人名。",
+    "The Economist 文章本身不署名，author 记为 The Economist。",
+    "published 取文章规范 URL 中的日期；The New Yorker 取杂志期号日期 2026-11-16。",
+    "所有 URL 均为可核验的原文链接：New Yorker 为杂志文章页，The Economist 为文章页（链接来自 EPUB 内下载注记）。",
+    "只保留正文段落；已剔除图片说明、广告、分区导航、下载水印、更正启事与文末符号以外的版面元素。"
+  ]
+}
