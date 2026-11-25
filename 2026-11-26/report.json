@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T06:48:10+08:00",
+  "requested": 3,
+  "selected": 3,
+  "source_repo": "https://github.com/hehonghui/awesome-english-ebooks",
+  "issues_used": [
+    {
+      "publication": "The Economist",
+      "issue": "2026-11-21",
+      "file": "01_economist/te_2026-11-21/TheEconomist.2026-11-21.epub"
+    }
+  ],
+  "criteria": {
+    "requested_count": 3,
+    "full_text_only": true,
+    "exclude_paywalled": true,
+    "exclude_podcast_video_gallery": true,
+    "exclude_sponsored_or_advertorial": true,
+    "reading_length": "英语母语者约5-10分钟，正文1000-2500词",
+    "exclude_fiction": true,
+    "cross_day_dedup": true,
+    "dedup_scope": "2026-11-23、2026-11-24、2026-11-25 已发布 content.json 及工作区历史目录",
+    "cross_source_topic_dedup": true
+  },
+  "selected_articles": [
+    {
+      "source": "The Economist",
+      "title": "Iran is functioning without a supreme leader",
+      "published": "2026-11-19",
+      "word_count": 1117,
+      "url": "https://www.economist.com/middle-east-and-africa/2026/11/15/iran-is-functioning-without-a-supreme-leader",
+      "file": "01_the-economist_2026-11-19_iran-is-functioning-without-a-supreme-leader.md"
+    },
+    {
+      "source": "The Economist",
+      "title": "Bangladesh is no longer a development superstar",
+      "published": "2026-11-19",
+      "word_count": 1122,
+      "url": "https://www.economist.com/asia/2026/11/16/bangladesh-is-no-longer-a-development-superstar",
+      "file": "02_the-economist_2026-11-19_bangladesh-is-no-longer-a-development-superstar.md"
+    },
+    {
+      "source": "The Economist",
+      "title": "Anthropic’s giant IPO puts the heat on OpenAI",
+      "published": "2026-11-19",
+      "word_count": 1035,
+      "url": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
+      "file": "03_the-economist_2026-11-19_anthropics-giant-ipo-puts-the-heat-on-openai.md"
+    }
+  ],
+  "notes": [
+    "从 awesome-english-ebooks 最新一期 The Economist（2026-11-21）EPUB 抽取全文，未改写、未编造。",
+    "三篇均通过全文可用性检查（EPUB 内含全文，无付费墙），非播客/视频/图集、非软广/赞助内容。",
+    "已剔除栏目名、图片说明、zlibrary 下载页脚与 newsletter 推广段，保留原始正文措辞。",
+    "与 2026-11-23 至 2026-11-25 已发布文章标题及 URL 均无重复，三篇主题互不重叠。"
+  ]
+}
