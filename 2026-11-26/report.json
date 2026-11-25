@@ -1,8 +1,8 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T06:48:10+08:00",
-  "requested": 3,
-  "selected": 3,
+  "generated_at": "2026-11-26T07:01:13+08:00",
+  "requested": 5,
+  "selected": 5,
   "source_repo": "https://github.com/hehonghui/awesome-english-ebooks",
   "issues_used": [
     {
@@ -47,12 +47,43 @@
       "word_count": 1035,
       "url": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
       "file": "03_the-economist_2026-11-19_anthropics-giant-ipo-puts-the-heat-on-openai.md"
+    },
+    {
+      "source": "ProPublica",
+      "title": "A Startup Tied to Donald Trump Jr. Could Get a Historic $15 Billion Loan From the Pentagon",
+      "published": "2026-11-24",
+      "word_count": 2149,
+      "url": "https://www.propublica.org/article/donald-trump-jr-hadrian-pentagon-loan",
+      "file": "04_propublica_2026-11-24_a-startup-tied-to-donald-trump-jr-could-get-a-historic-15-billion-loan-from-the-pentagon.md"
+    },
+    {
+      "source": "ProPublica / The Texas Tribune",
+      "title": "Corpus Christi Started Pumping Groundwater at “Lightning Speed.” Rural Residents Fear the Consequences.",
+      "published": "2026-11-19",
+      "word_count": 2242,
+      "url": "https://www.propublica.org/article/corpus-christi-water-crisis-groundwater",
+      "file": "05_propublica_2026-11-19_corpus-christi-started-pumping-groundwater-at-lightning-speed-rural-residents-fear-the-consequences.md"
     }
   ],
   "notes": [
-    "从 awesome-english-ebooks 最新一期 The Economist（2026-11-21）EPUB 抽取全文，未改写、未编造。",
-    "三篇均通过全文可用性检查（EPUB 内含全文，无付费墙），非播客/视频/图集、非软广/赞助内容。",
-    "已剔除栏目名、图片说明、zlibrary 下载页脚与 newsletter 推广段，保留原始正文措辞。",
-    "与 2026-11-23 至 2026-11-25 已发布文章标题及 URL 均无重复，三篇主题互不重叠。"
+    "前3篇从 awesome-english-ebooks 最新一期 The Economist（2026-11-21）EPUB 抽取全文，未改写、未编造。",
+    "后2篇于同日从 ProPublica 网站抓取全文（其中 Corpus Christi 一篇与 The Texas Tribune、KRIS 6 News 联合发布），均免费可读、非付费墙。",
+    "已剔除栏目名、图片说明、zlibrary 下载页脚、newsletter 推广段、记者联系卡与 Read More 推荐块，保留原始正文措辞。",
+    "与 2026-11-23 至 2026-11-25 已发布文章标题及 URL 均无重复，5篇主题互不重叠。",
+    "5篇正文均为 1,000–2,500 词，按英语母语者约 200–240 词/分钟计，阅读时长约 5–10 分钟。"
+  ],
+  "additional_sources": [
+    {
+      "publication": "ProPublica",
+      "article": "A Startup Tied to Donald Trump Jr. Could Get a Historic $15 Billion Loan From the Pentagon",
+      "published": "2026-11-24",
+      "url": "https://www.propublica.org/article/donald-trump-jr-hadrian-pentagon-loan"
+    },
+    {
+      "publication": "ProPublica / The Texas Tribune",
+      "article": "Corpus Christi Started Pumping Groundwater at “Lightning Speed.” Rural Residents Fear the Consequences.",
+      "published": "2026-11-19",
+      "url": "https://www.propublica.org/article/corpus-christi-water-crisis-groundwater"
+    }
   ]
 }
