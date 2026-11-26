@@ -1,0 +1,260 @@
+{
+  "title": "Who is Levent Alpöge, the reclusive genius behind AI’s math conquest?",
+  "author": "Joseph Howlett",
+  "published": "2026-11-24",
+  "source": "Scientific American",
+  "url": "https://www.scientificamerican.com/article/who-is-levent-alpoege-the-reclusive-genius-behind-ais-math-conquest",
+  "fetched_at": "2026-11-26T11:59:38+08:00",
+  "word_count": 3617,
+  "markdown_path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-26\\02_scientific-american_2026-11-24_who-is-levent-alp-ge-the-reclusive-genius-behind-ai-s-math-conquest.md",
+  "body_markdown": "Levent Alpöge got back to the place he was crashing in New York City around 4 A.M. on November 20. He was almost done. He could almost sleep.\n\nAll that was left was to download the 17 million lines of code he’d spent the night preparing for public release. It needed to go up on his personal website, alongside a four-page statement he’d tinkered with all week. But for the moment, the code still sat on the servers of his employer, the artificial intelligence company Anthropic—which had gone public just hours earlier with the largest valuation in stock market history, making Alpöge a rich man. Once the upload was complete, he would also be one of history’s most famous mathematicians.\n\nThe code was the product of untold computing resources, months of work and decades of dreaming. It proved the Riemann hypothesis, a 167-year-old math problem so formidable that it is almost beyond words; in public talks, experts have tended to simply treat it as an over-the-horizon aspiration, a “vanishing point” perspective against which all other math problems shrink. Just weeks earlier Terence Tao—arguably the world’s most famous mathematician—had declared the hypothesis out of AI’s reach (let alone that of humans) until perhaps 2050.\n\nNow the challenge is vanquished. Alpöge’s quiet upload capped off an epochal year in which AI has systematically conquered humanity’s oldest discipline in a sequence of escalating, dramatic and controversial discoveries. And in nearly every episode of this earthshaking war for math’s soul, Alpöge has figured somehow—part battlefield champion, part horseman of the AI apocalypse, part Forrest Gump. His eccentric ways have shaped this saga, maybe more than any other single person on Earth, and thereby the course of history.\n\nThat is perhaps why people are so divided over Alpöge. “Who is this person who’s behind some of the most striking applications of AI to mathematics?” says Henry Cohn, a mathematician at the Massachusetts Institute of Technology. “This is a really interesting question that deserves a deeper answer than you can get from following him on X.”\n\nDepending on who you ask, Alpöge is a reviled online troll—an agent of chaos laughing as his fellow mathematicians watch their intellectual landscape get carpet-bombed by his Silicon Valley cohort—or a reluctant public figure—a shy academic who has integrity and wants to forge a future where AI is mathematicians’ collaborator, not their usurper. Or maybe he’s an arrogant genius who has a chip on his shoulder and is bent on leveraging his access, his internal models and unlimited tokens, to prove his doubters wrong by snatching every remaining mathematical trophy off the shelf.\n\nWhatever the truth is, it’s hard to know because Alpöge won’t tell. He refuses to speak to media. This article has been assembled from interviews with dozens of friends, mentors, collaborators and acquaintances.\n\nAlpöge’s online persona is confusing and tempestuous. He topples famous conjectures with glib and gleeful social media posts—and then gets baited into emotionally replying to anonymous commenters. His X bio starts with the self-effacing descriptor “idiot” but follows with a litany of world-class accolades. There are few photographs of Alpöge online, but they all present a consistent picture: thick eyebrows over an angular, almost-elfin face, thin bangs halfway between a Beatles mop top and a bowl cut and an impish smile that reveals a slight gap between his front teeth and an unmistakable capacity for mischief.\n\nAccording to numerous sources close to him, though, behind the irreverent visage is a fierce hunger for respect and recognition, paired with a boundless belief in his own capabilities—a drive shocking even to the world-class polymaths who know him. No goal is too ambitious. Even the Riemann hypothesis—math’s one true holy grail—proved to be no limit.\n\n“He has this will to take on the world and win,” says Scott Armstrong, a mathematician at New York University and a rare Alpöge confidant. “He’s got it in spades.”\n\nIn today’s world, where large teams are the norm for any assault on frontier research problems, Alpöge is an anomaly: he mostly works alone, except, of course, for the powerful internal models he has privileged access to. “Here is a person that is larger than life,” Armstrong says. “I keep asking myself, ‘When they make the movie, who is going to play Levent?’”\n\nLevent Alpöge was born on April Fool’s Day, 1992, along the central stretch of Long Island.\n\nHis parents, both Turkish immigrants, realized their son’s intellect was remarkable when he was just three years old. As his mother told a Turkish newspaper in 2014, she was reading him one of his favorite books and said she was too tired to continue, so Alpöge picked up where she’d stopped. At first she thought he had memorized the page, but when she gave him another book, he kept reading. Somehow, he’d learned without instruction. On the advice of professionals, they enrolled him in a nearby gifted program.\n\nLevent Alpöge’s one sister, Elif, is a decade older, which made him practically an only child for much of the time. Alpöge was extremely athletic and especially into distance running and soccer—with his favorite soccer team being Istanbul’s Beşiktaş Gymnastics Club.\n\nHe picked up coding early. In 2009, at age 17, he connected with bioinformatics professor Xenophon Papademetris of Yale University. Papademetris’s group assigned Alpöge a research problem the team had little time for. The idea was to use Nvidia graphical processing units (GPUs)—the technology now powering the AI revolution—to recognize vascular structures in medical images.\n\n“He helped do one of the first GPU implementations of an image analysis algorithm,” Papademetris says. “He was a 17-year-old kid who could say, ‘I will do it.’” The professor recalls what he wrote of Alpöge in his college recommendation letter, “His enthusiasm was contagious, his energy was boundless, and his confidence in his ability to overcome obstacles almost frightening.”\n\nAlpöge’s algorithm was enough to “punch your ticket to any university in the country,” Papademetris says. “My letter was irrelevant.” As a bonus for the achievement, a team at the Massachusetts Institute of Technology’s Lincoln Laboratory named an asteroid “Alpöge.”\n\nThe teenager ultimately chose Harvard University. He fell in love with math once he got there. “He distinguished himself even in that class of overachieving first-years,” says Noam Elkies of Harvard, who was his math professor that year, “finding more than half the corrections in class materials that I did not notice sooner.” Other instructors noted Alpöge’s fastidiousness could cause tensions: in a recent Bluesky post, physicist Matt Reece recalled how the young Alpöge joined Reece’s graduate physics course and so angered the students with his persistent mathematical questions that “I feared someone would actually punch him in class.”\n\nBy his junior year, Alpöge was under the tutelage of renowned mathematician Jacob Tsimerman. (A few months ago Tsimerman won a Fields Medal, math’s highest honor, and then announced he was leaving academia to work on AI safety.)\n\nThat year Alpöge participated in a well-known summer undergraduate research program at the University of Minnesota Duluth. The program’s longtime leader, Joe Gallian, recalls Alpöge as unusually buoyant and charismatic. After visiting the program, mathematician Rishi Nath said to Gallian, “Everybody wants to be like Levent.”\n\nAlpöge did groundbreaking work that summer, publishing papers in top journals that were on par with those of established professionals. With two weeks left, Gallian gave Alpöge a particularly hard problem to occupy his remaining time. Gallan said, “Work on it until classes start, and then, if you don’t have anything, it’s fine.” But Alpöge told him, “I’ll work on it until I solve it.”\n\nHe showed similar tenacity for everything in life, Gallian says. During the Duluth group’s yearly stop at a restaurant called Betty’s Pies along Minnesota State Highway 61, three students volunteered for the “pig’s trough” challenge: if they could eat a massive pie stuffed with ice cream in 15 minutes, they’d win a free T-shirt. Alpöge did it in three minutes and 43 seconds—a record at the time.\\* He also ran Duluth’s annual marathon, and Gallian snapped a photograph of him outracing everybody at an “alpine sliding” course. “You can see the competitiveness and the fierceness and the power of concentration,” Gallian says.\n\nThe following year Alpöge’s undergraduate thesis, about famous equations called “elliptic curves,” won him the illustrious Morgan Prize. In a recommendation letter, the late Harvard professor Benedict Gross called it “a tremendous piece of research for an undergraduate, at the level of an outstanding PhD thesis.” Perhaps, Gross speculated in his letter, something like a Fields Medal was in Alpöge’s future, too. Tsimerman struck a similar note in a recommendation of his own: “Often it seemed as if there was no way to proceed, and I even suggested switching problems a few times when I thought there was a dead end,” he wrote. “But Levent enjoyed the challenge too much to stop.”\n\nAlpöge added to his illustrious CV with a Ph.D. from Princeton University and postdoctoral position back at Harvard. His doctoral advisor, the Fields Medalist Manjul Bhargava, cites the same exuberance and talent but adds that Alpöge “was slow to write up the new things he did, in part because he was always thinking about so many things.”\n\nBhargava also recalls a time when a family member on Long Island was ill and Levent offered to take leave from his job to move home and help. “I’ve never forgotten that gesture,” Bhargava says, calling Alpöge “a very kind and caring person.”\n\nYet Alpöge’s frenzied approach sometimes ruffled feathers in academia. In a pithy February 2025 Facebook post, he wrote that he’d solved a “Hilbert problem,” one of math’s big trophies. But two other mathematicians had already solved the problem. As of today, Alpöge still proudly lists the accolade on his website and X bio.\n\nAlpöge’s departure to Anthropic in the summer of 2024 didn’t surprise anyone close to him. He frequently expressed frustrations with academia and its antiquated journal system, they say, and had become obsessed with AI from the moment he interacted with OpenAI’s GPT-4 in mid-2023.\n\nHe joined the company under a vague title, “member of technical staff.” Anthropic declined a request to give further information about his official work. Everyone with second-hand knowledge of the arrangement, however, insists he was *not* hired to do math.\n\nBut Anthropic employees are allowed to experiment with unreleased versions of Claude in their off time. “Give a math person access to a powerful LLM \\[large language model\\] with access to a lot of compute,” says M.I.T. mathematician Andrew Sutherland, “and they will eventually start asking it math questions, whether you want them to or not.”\n\nAlpöge first gained wider recognition on July 19, 2026, with a curt X post at 10:19 P.M. EDT announcing he had solved the Jacobian conjecture, one of math’s most famous problems. Another mathematician, Akhil Mathew of the University of Chicago, had thought that the conjecture might be within reach of cutting-edge AI models and had mentioned it in passing to Alpöge, who took the idea and ran with it.\n\nThis achievement was a turning point, the first really famous math problem AI solved—the sort of thing most people would’ve revealed in a long, explanatory manuscript submitted to a top math journal. To critics, Alpöge’s nonchalant post almost seemed to say, with a callous shrug, “Yup, AI is better than you now.” (Friends say Alpöge now regrets the approach he took, for which a number of prominent mathematicians have castigated him publicly and privately.)\n\nOver the following months, Alpöge repeated this pattern again and again. He’d think of a problem, either because he knew it from his own area of number theory or because another mathematician suggested it. He’d throw his allowance of tokens and an internal version of Claude at it and then inform a few trusted outside experts of what he found. If necessary, he’d iterate based on their feedback.\n\nThese breakthroughs—too numerous and esoteric to concisely list here—spanned a breathtaking range of mathematical topics, more than any single mathematician can productively work in. Of course, Alpöge didn’t need to understand each topic completely. He would act as a kind of liaison between his legions of Claude agents and his human collaborators.\n\nHe’d give his agentic army a direction, often based on the human experts’ guidance, and they’d churn out thousands of pages of calculations, mostly in a math-slop dialect unreadable to any human. But the slop corresponded, in some impenetrable way, to actual mathematical truth. Alpöge’s task was to translate this output, with the help of yet another LLM, into readable math. He’s become a kind of LLM whisperer through this unconventional, somewhat aggravating process, which he calls “AI psychosis,” according to Ethan Sussman, a mathematician at Northwestern University.\n\nStill, Alpöge’s correspondents all remark on his shocking ability to grasp subjects far from his expertise—and on his unflagging resolve. “I think he really does understand all this math,” Armstrong says. “He’s like some kind of genius.”\n\n“He is exceptionally broad,” Sussman agrees. While Sussman is usually the most intense person in his collaborations, “Levent is an order of magnitude more intense than I am,” he says. Alpöge “sets his sights on the goal, and he’s like, ‘I’ll sleep when this is done.’”\n\nIn fact, the issue of Alpöge’s sleep—or lack thereof—is something many of his recent collaborators have noticed with concern. His messages and check-ins, arriving at all hours, seem untethered from any circadian routine. “I don’t know when he’s sleeping,” several of his collaborators told me.\n\nWhat happened next was a crash. Just as Alpöge was nearing one of math’s loftiest summits, hoping to solve a “million-dollar” problem from the Clay Mathematics Institute’s Millennium Prize list—the highest-value math targets out there—Anthropic’s archrival, OpenAI, swooped in. Rumors had spread that Alpöge and N.Y.U. mathematician Tristan Buckmaster were about to solve the Navier-Stokes problem. Looking for a win, OpenAI’s math team threw colossal amounts of computing power at the problem over several days to get there first.\n\nThe media painted the controversy as a David versus Goliath narrative. Alpöge did his best to stay out of it and mostly avoided the uproar, while Buckmaster was cast as the human struck down by an iron-fisted tech juggernaut.\n\nA month later OpenAI followed up the Navier-Stokes blockbuster with more than 700 additional results. The proof dump fell upon a mathematical community already in turmoil. It also scooped a number of mathematicians’ progress on important problems, including collaborations with Alpöge that were underway. Any paranoia he already felt was now magnified, and he became increasingly withdrawn, convinced that leaks between the two companies were stealing his progress.\n\nThe most impressive result in OpenAI’s dump, maybe the most impressive AI-powered result up until then, was a proof that made significant progress toward the Riemann hypothesis. This was Alpöge’s favorite problem, the one he’d harbored unspoken dreams of someday besting. Publicly, he posted on X to commend OpenAI’s team for its work. But the very same day, he started poking harder around the edges of the hypothesis with his internal version of Claude.\n\nOn October 14 Armstrong sat down on a bench in Alpöge’s hotel lobby in Aspen, Colo.\n\nHe’d messaged Alpöge, whom he knew was in Aspen for the same secret “AIxMath” conference, because he hadn’t seen him at any of the events. Alpöge said he’d been hiding out in his hotel room and suggested they go for a walk.\n\nThe two had only spoken once before, at an N.Y.U. lunch in July. Armstrong was showing Alpöge’s Jacobian conjecture X post on his phone to colleagues around the table. He couldn’t figure out why they were giggling until the stranger with a bowl cut sitting next to him turned and said with a smile, “That was me.”\n\nWhen Alpöge finally emerged in the lobby in October, Armstrong barely recognized him. His hair was shaggier, his facial hair had grown out, and he was cloaked in a baggy hoodie. “He looked ‘like a hobo,’ in his own words,” Armstrong recalls. “He didn’t want to be seen by anyone.”\n\nThey strolled through Aspen’s quiet streets for two hours, talking about the Navier-Stokes drama and the powerful, AI-fueled forces that were forging their collective future. This time Alpöge offered no goofy quips, and his frustration was clear. “He’s a very intense person—he’s very moody,” Armstrong says. “He thinks that OpenAI is the evil empire, and he just wants to throw as much sand in their gears as he can.”\n\nAlpöge doesn’t seem to think Anthropic is perfect either, but he’s glad it exists. When Armstrong complained of math’s fate being in the hands of just two companies, Alpöge replied, “It could be worse. At least there’s not just one.”\n\nAlpöge hadn’t expressed such animosity toward his corporate rivals before this year’s headline-making events, according to everyone I spoke with. But OpenAI’s actions this year, rife with PR-heavy claims and rampant scooping of mathematicians (Alpöge most of all), seems to have made an enemy of him.\n\nAlpöge himself now has no shortage of enemies. In the aftermath of his Riemann proof, he wrote on X, he’s received death threats. And many mathematicians are frustrated with the official narrative, promoted by Alpöge and Anthropic alike, that his math work is merely a “hobby” entirely divorced from his day job—especially when he’s using internal models and resources.\n\nThree mathematicians uploaded a preprint last week that provides a rare insight into those resources. Alpöge had shared with them the LLM output from one of his summer breakthroughs. They used it to estimate that the discovery—which was several times less ambitious than many of Alpöge’s other projects—cost up to $4 million worth of computing resources. An Anthropic representative declined to comment on the estimate. Whatever Anthropic’s “allowance” for Alpöge is, it’s not an especially cheap one. (Similarly, OpenAI CEO Sam Altman recently acknowledged that costs for his company’s math efforts reached more than $100 million.) For reference, in 2026 the National Science Foundation, the largest U.S. funder of math research, invested about $200 million in the field.\n\n“Anthropic should release how much this costs. How many tens of millions of dollars are in their budget to solve math problems?” says N.Y.U. mathematician Nestor Guillen. In mid-October, Guillen notes, Anthropic and OpenAI each committed $5 million in funding and resources to a joint initiative with the Simons Foundation to help mathematicians understand recent AI breakthroughs. “Would they agree to increase that money to match what they give an employee working on a ‘weekend hobby?’” he asks.\n\nAfter their afternoon walk in Aspen, Armstrong and Alpöge parted ways, heading back to their respective hotel rooms, where each had a number of agents churning on their current math problems. What Alpöge was working on, he did not disclose.\n\nAlpöge and Claude’s successes on Riemann happened in spurts throughout October and November. In the early hours of November 16, they did the impossible. That was when Alpöge wrote to Anthropic’s CEO Dario Amodei, who asked him to save the announcement until after the company’s initial public offering (IPO) that Friday.\n\nThat day Alpöge visited Princeton University, where he told Bhargava and mathematician Peter Sarnak what he’d accomplished, swearing them to secrecy and asking their advice. “It was surreal,” Sarnak says. “He was in a pretty excited state.” Alpöge spent the rest of the week holed up in Buckmaster’s N.Y.U. office, their old war room during the Navier-Stokes drama, where they now strategized the release of the Riemann proof.\n\nDrained but exhilarated, they wrapped up their work early on Friday morning and walked to the touristy Caffe Reggio on MacDougal Street, the only place nearby that was still serving decent coffee past 2 A.M.\n\nLove him or hate him, Alpöge has given mathematicians a human face to represent the AI revolution, to project their feelings onto as their world is turned upside down. In his statement about the Riemann proof, Alpöge gave ample praise to Claude—“Claude flew, and danced, and sparkled near that finish line.” But he also highlighted his own agency. “It was my secret in my student days that my plans were for this problem,” he wrote. He used a machine to beat everyone, yes, but he remains a key ingredient. The story he has spun is one of triumphant partnership, portending a bright future for math—a modern retelling of the same “lone genius” story math has always been obsessed with, updated for the AI era.\n\nWhether he’s a visionary genius or a corporate face, his process and his foibles are a stark glimpse into math’s new, supercharged future—AI psychosis included. Riemann being solved won’t cure cancer or stop global warming. It probably won’t change your life in any noticeable way. But it marks a turning point nonetheless, one whose import will only be fully known to our future selves.\n\nThe upload finished shortly after 8 A.M. on November 20. Alpöge texted Buckmaster the link to his website and instructed him to pass it to Armstrong. “Levent and I always joked, ‘If we ever need anything leaked, we’ll just give it to Scott,’” Buckmaster says. Armstrong posted it to X immediately. It was done.\n\nBut what if there was a bug? Alpöge realized he hadn’t had time to compile the code on his own machine before uploading it. Could something have gotten garbled in the process? People around the world would download his code, and it would crash, making them doubt his claim.\n\nIt was done—the files were already online; the world already informed. But he had to know. Bleary-eyed, he started up his compiler. He could sleep once he knew he’d won.\n\n\\**Editor’s Note (11/25/26): This sentence was edited after posting to correct the description of Levent Alpöge’s record in the “pig’s trough” challenge.*",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Levent Alpöge got back to the place he was crashing in New York City around 4 A.M. on November 20. He was almost done. He could almost sleep."
+    },
+    {
+      "type": "paragraph",
+      "text": "All that was left was to download the 17 million lines of code he’d spent the night preparing for public release. It needed to go up on his personal website, alongside a four-page statement he’d tinkered with all week. But for the moment, the code still sat on the servers of his employer, the artificial intelligence company Anthropic—which had gone public just hours earlier with the largest valuation in stock market history, making Alpöge a rich man. Once the upload was complete, he would also be one of history’s most famous mathematicians."
+    },
+    {
+      "type": "paragraph",
+      "text": "The code was the product of untold computing resources, months of work and decades of dreaming. It proved the Riemann hypothesis, a 167-year-old math problem so formidable that it is almost beyond words; in public talks, experts have tended to simply treat it as an over-the-horizon aspiration, a “vanishing point” perspective against which all other math problems shrink. Just weeks earlier Terence Tao—arguably the world’s most famous mathematician—had declared the hypothesis out of AI’s reach (let alone that of humans) until perhaps 2050."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now the challenge is vanquished. Alpöge’s quiet upload capped off an epochal year in which AI has systematically conquered humanity’s oldest discipline in a sequence of escalating, dramatic and controversial discoveries. And in nearly every episode of this earthshaking war for math’s soul, Alpöge has figured somehow—part battlefield champion, part horseman of the AI apocalypse, part Forrest Gump. His eccentric ways have shaped this saga, maybe more than any other single person on Earth, and thereby the course of history."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is perhaps why people are so divided over Alpöge. “Who is this person who’s behind some of the most striking applications of AI to mathematics?” says Henry Cohn, a mathematician at the Massachusetts Institute of Technology. “This is a really interesting question that deserves a deeper answer than you can get from following him on X.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on who you ask, Alpöge is a reviled online troll—an agent of chaos laughing as his fellow mathematicians watch their intellectual landscape get carpet-bombed by his Silicon Valley cohort—or a reluctant public figure—a shy academic who has integrity and wants to forge a future where AI is mathematicians’ collaborator, not their usurper. Or maybe he’s an arrogant genius who has a chip on his shoulder and is bent on leveraging his access, his internal models and unlimited tokens, to prove his doubters wrong by snatching every remaining mathematical trophy off the shelf."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whatever the truth is, it’s hard to know because Alpöge won’t tell. He refuses to speak to media. This article has been assembled from interviews with dozens of friends, mentors, collaborators and acquaintances."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alpöge’s online persona is confusing and tempestuous. He topples famous conjectures with glib and gleeful social media posts—and then gets baited into emotionally replying to anonymous commenters. His X bio starts with the self-effacing descriptor “idiot” but follows with a litany of world-class accolades. There are few photographs of Alpöge online, but they all present a consistent picture: thick eyebrows over an angular, almost-elfin face, thin bangs halfway between a Beatles mop top and a bowl cut and an impish smile that reveals a slight gap between his front teeth and an unmistakable capacity for mischief."
+    },
+    {
+      "type": "paragraph",
+      "text": "According to numerous sources close to him, though, behind the irreverent visage is a fierce hunger for respect and recognition, paired with a boundless belief in his own capabilities—a drive shocking even to the world-class polymaths who know him. No goal is too ambitious. Even the Riemann hypothesis—math’s one true holy grail—proved to be no limit."
+    },
+    {
+      "type": "paragraph",
+      "text": "“He has this will to take on the world and win,” says Scott Armstrong, a mathematician at New York University and a rare Alpöge confidant. “He’s got it in spades.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "In today’s world, where large teams are the norm for any assault on frontier research problems, Alpöge is an anomaly: he mostly works alone, except, of course, for the powerful internal models he has privileged access to. “Here is a person that is larger than life,” Armstrong says. “I keep asking myself, ‘When they make the movie, who is going to play Levent?’”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Levent Alpöge was born on April Fool’s Day, 1992, along the central stretch of Long Island."
+    },
+    {
+      "type": "paragraph",
+      "text": "His parents, both Turkish immigrants, realized their son’s intellect was remarkable when he was just three years old. As his mother told a Turkish newspaper in 2014, she was reading him one of his favorite books and said she was too tired to continue, so Alpöge picked up where she’d stopped. At first she thought he had memorized the page, but when she gave him another book, he kept reading. Somehow, he’d learned without instruction. On the advice of professionals, they enrolled him in a nearby gifted program."
+    },
+    {
+      "type": "paragraph",
+      "text": "Levent Alpöge’s one sister, Elif, is a decade older, which made him practically an only child for much of the time. Alpöge was extremely athletic and especially into distance running and soccer—with his favorite soccer team being Istanbul’s Beşiktaş Gymnastics Club."
+    },
+    {
+      "type": "paragraph",
+      "text": "He picked up coding early. In 2009, at age 17, he connected with bioinformatics professor Xenophon Papademetris of Yale University. Papademetris’s group assigned Alpöge a research problem the team had little time for. The idea was to use Nvidia graphical processing units (GPUs)—the technology now powering the AI revolution—to recognize vascular structures in medical images."
+    },
+    {
+      "type": "paragraph",
+      "text": "“He helped do one of the first GPU implementations of an image analysis algorithm,” Papademetris says. “He was a 17-year-old kid who could say, ‘I will do it.’” The professor recalls what he wrote of Alpöge in his college recommendation letter, “His enthusiasm was contagious, his energy was boundless, and his confidence in his ability to overcome obstacles almost frightening.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alpöge’s algorithm was enough to “punch your ticket to any university in the country,” Papademetris says. “My letter was irrelevant.” As a bonus for the achievement, a team at the Massachusetts Institute of Technology’s Lincoln Laboratory named an asteroid “Alpöge.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "The teenager ultimately chose Harvard University. He fell in love with math once he got there. “He distinguished himself even in that class of overachieving first-years,” says Noam Elkies of Harvard, who was his math professor that year, “finding more than half the corrections in class materials that I did not notice sooner.” Other instructors noted Alpöge’s fastidiousness could cause tensions: in a recent Bluesky post, physicist Matt Reece recalled how the young Alpöge joined Reece’s graduate physics course and so angered the students with his persistent mathematical questions that “I feared someone would actually punch him in class.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "By his junior year, Alpöge was under the tutelage of renowned mathematician Jacob Tsimerman. (A few months ago Tsimerman won a Fields Medal, math’s highest honor, and then announced he was leaving academia to work on AI safety.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "That year Alpöge participated in a well-known summer undergraduate research program at the University of Minnesota Duluth. The program’s longtime leader, Joe Gallian, recalls Alpöge as unusually buoyant and charismatic. After visiting the program, mathematician Rishi Nath said to Gallian, “Everybody wants to be like Levent.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alpöge did groundbreaking work that summer, publishing papers in top journals that were on par with those of established professionals. With two weeks left, Gallian gave Alpöge a particularly hard problem to occupy his remaining time. Gallan said, “Work on it until classes start, and then, if you don’t have anything, it’s fine.” But Alpöge told him, “I’ll work on it until I solve it.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "He showed similar tenacity for everything in life, Gallian says. During the Duluth group’s yearly stop at a restaurant called Betty’s Pies along Minnesota State Highway 61, three students volunteered for the “pig’s trough” challenge: if they could eat a massive pie stuffed with ice cream in 15 minutes, they’d win a free T-shirt. Alpöge did it in three minutes and 43 seconds—a record at the time.\\* He also ran Duluth’s annual marathon, and Gallian snapped a photograph of him outracing everybody at an “alpine sliding” course. “You can see the competitiveness and the fierceness and the power of concentration,” Gallian says."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following year Alpöge’s undergraduate thesis, about famous equations called “elliptic curves,” won him the illustrious Morgan Prize. In a recommendation letter, the late Harvard professor Benedict Gross called it “a tremendous piece of research for an undergraduate, at the level of an outstanding PhD thesis.” Perhaps, Gross speculated in his letter, something like a Fields Medal was in Alpöge’s future, too. Tsimerman struck a similar note in a recommendation of his own: “Often it seemed as if there was no way to proceed, and I even suggested switching problems a few times when I thought there was a dead end,” he wrote. “But Levent enjoyed the challenge too much to stop.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alpöge added to his illustrious CV with a Ph.D. from Princeton University and postdoctoral position back at Harvard. His doctoral advisor, the Fields Medalist Manjul Bhargava, cites the same exuberance and talent but adds that Alpöge “was slow to write up the new things he did, in part because he was always thinking about so many things.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bhargava also recalls a time when a family member on Long Island was ill and Levent offered to take leave from his job to move home and help. “I’ve never forgotten that gesture,” Bhargava says, calling Alpöge “a very kind and caring person.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yet Alpöge’s frenzied approach sometimes ruffled feathers in academia. In a pithy February 2025 Facebook post, he wrote that he’d solved a “Hilbert problem,” one of math’s big trophies. But two other mathematicians had already solved the problem. As of today, Alpöge still proudly lists the accolade on his website and X bio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alpöge’s departure to Anthropic in the summer of 2024 didn’t surprise anyone close to him. He frequently expressed frustrations with academia and its antiquated journal system, they say, and had become obsessed with AI from the moment he interacted with OpenAI’s GPT-4 in mid-2023."
+    },
+    {
+      "type": "paragraph",
+      "text": "He joined the company under a vague title, “member of technical staff.” Anthropic declined a request to give further information about his official work. Everyone with second-hand knowledge of the arrangement, however, insists he was *not* hired to do math."
+    },
+    {
+      "type": "paragraph",
+      "text": "But Anthropic employees are allowed to experiment with unreleased versions of Claude in their off time. “Give a math person access to a powerful LLM \\[large language model\\] with access to a lot of compute,” says M.I.T. mathematician Andrew Sutherland, “and they will eventually start asking it math questions, whether you want them to or not.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alpöge first gained wider recognition on July 19, 2026, with a curt X post at 10:19 P.M. EDT announcing he had solved the Jacobian conjecture, one of math’s most famous problems. Another mathematician, Akhil Mathew of the University of Chicago, had thought that the conjecture might be within reach of cutting-edge AI models and had mentioned it in passing to Alpöge, who took the idea and ran with it."
+    },
+    {
+      "type": "paragraph",
+      "text": "This achievement was a turning point, the first really famous math problem AI solved—the sort of thing most people would’ve revealed in a long, explanatory manuscript submitted to a top math journal. To critics, Alpöge’s nonchalant post almost seemed to say, with a callous shrug, “Yup, AI is better than you now.” (Friends say Alpöge now regrets the approach he took, for which a number of prominent mathematicians have castigated him publicly and privately.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Over the following months, Alpöge repeated this pattern again and again. He’d think of a problem, either because he knew it from his own area of number theory or because another mathematician suggested it. He’d throw his allowance of tokens and an internal version of Claude at it and then inform a few trusted outside experts of what he found. If necessary, he’d iterate based on their feedback."
+    },
+    {
+      "type": "paragraph",
+      "text": "These breakthroughs—too numerous and esoteric to concisely list here—spanned a breathtaking range of mathematical topics, more than any single mathematician can productively work in. Of course, Alpöge didn’t need to understand each topic completely. He would act as a kind of liaison between his legions of Claude agents and his human collaborators."
+    },
+    {
+      "type": "paragraph",
+      "text": "He’d give his agentic army a direction, often based on the human experts’ guidance, and they’d churn out thousands of pages of calculations, mostly in a math-slop dialect unreadable to any human. But the slop corresponded, in some impenetrable way, to actual mathematical truth. Alpöge’s task was to translate this output, with the help of yet another LLM, into readable math. He’s become a kind of LLM whisperer through this unconventional, somewhat aggravating process, which he calls “AI psychosis,” according to Ethan Sussman, a mathematician at Northwestern University."
+    },
+    {
+      "type": "paragraph",
+      "text": "Still, Alpöge’s correspondents all remark on his shocking ability to grasp subjects far from his expertise—and on his unflagging resolve. “I think he really does understand all this math,” Armstrong says. “He’s like some kind of genius.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "“He is exceptionally broad,” Sussman agrees. While Sussman is usually the most intense person in his collaborations, “Levent is an order of magnitude more intense than I am,” he says. Alpöge “sets his sights on the goal, and he’s like, ‘I’ll sleep when this is done.’”"
+    },
+    {
+      "type": "paragraph",
+      "text": "In fact, the issue of Alpöge’s sleep—or lack thereof—is something many of his recent collaborators have noticed with concern. His messages and check-ins, arriving at all hours, seem untethered from any circadian routine. “I don’t know when he’s sleeping,” several of his collaborators told me."
+    },
+    {
+      "type": "paragraph",
+      "text": "What happened next was a crash. Just as Alpöge was nearing one of math’s loftiest summits, hoping to solve a “million-dollar” problem from the Clay Mathematics Institute’s Millennium Prize list—the highest-value math targets out there—Anthropic’s archrival, OpenAI, swooped in. Rumors had spread that Alpöge and N.Y.U. mathematician Tristan Buckmaster were about to solve the Navier-Stokes problem. Looking for a win, OpenAI’s math team threw colossal amounts of computing power at the problem over several days to get there first."
+    },
+    {
+      "type": "paragraph",
+      "text": "The media painted the controversy as a David versus Goliath narrative. Alpöge did his best to stay out of it and mostly avoided the uproar, while Buckmaster was cast as the human struck down by an iron-fisted tech juggernaut."
+    },
+    {
+      "type": "paragraph",
+      "text": "A month later OpenAI followed up the Navier-Stokes blockbuster with more than 700 additional results. The proof dump fell upon a mathematical community already in turmoil. It also scooped a number of mathematicians’ progress on important problems, including collaborations with Alpöge that were underway. Any paranoia he already felt was now magnified, and he became increasingly withdrawn, convinced that leaks between the two companies were stealing his progress."
+    },
+    {
+      "type": "paragraph",
+      "text": "The most impressive result in OpenAI’s dump, maybe the most impressive AI-powered result up until then, was a proof that made significant progress toward the Riemann hypothesis. This was Alpöge’s favorite problem, the one he’d harbored unspoken dreams of someday besting. Publicly, he posted on X to commend OpenAI’s team for its work. But the very same day, he started poking harder around the edges of the hypothesis with his internal version of Claude."
+    },
+    {
+      "type": "paragraph",
+      "text": "On October 14 Armstrong sat down on a bench in Alpöge’s hotel lobby in Aspen, Colo."
+    },
+    {
+      "type": "paragraph",
+      "text": "He’d messaged Alpöge, whom he knew was in Aspen for the same secret “AIxMath” conference, because he hadn’t seen him at any of the events. Alpöge said he’d been hiding out in his hotel room and suggested they go for a walk."
+    },
+    {
+      "type": "paragraph",
+      "text": "The two had only spoken once before, at an N.Y.U. lunch in July. Armstrong was showing Alpöge’s Jacobian conjecture X post on his phone to colleagues around the table. He couldn’t figure out why they were giggling until the stranger with a bowl cut sitting next to him turned and said with a smile, “That was me.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "When Alpöge finally emerged in the lobby in October, Armstrong barely recognized him. His hair was shaggier, his facial hair had grown out, and he was cloaked in a baggy hoodie. “He looked ‘like a hobo,’ in his own words,” Armstrong recalls. “He didn’t want to be seen by anyone.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "They strolled through Aspen’s quiet streets for two hours, talking about the Navier-Stokes drama and the powerful, AI-fueled forces that were forging their collective future. This time Alpöge offered no goofy quips, and his frustration was clear. “He’s a very intense person—he’s very moody,” Armstrong says. “He thinks that OpenAI is the evil empire, and he just wants to throw as much sand in their gears as he can.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alpöge doesn’t seem to think Anthropic is perfect either, but he’s glad it exists. When Armstrong complained of math’s fate being in the hands of just two companies, Alpöge replied, “It could be worse. At least there’s not just one.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alpöge hadn’t expressed such animosity toward his corporate rivals before this year’s headline-making events, according to everyone I spoke with. But OpenAI’s actions this year, rife with PR-heavy claims and rampant scooping of mathematicians (Alpöge most of all), seems to have made an enemy of him."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alpöge himself now has no shortage of enemies. In the aftermath of his Riemann proof, he wrote on X, he’s received death threats. And many mathematicians are frustrated with the official narrative, promoted by Alpöge and Anthropic alike, that his math work is merely a “hobby” entirely divorced from his day job—especially when he’s using internal models and resources."
+    },
+    {
+      "type": "paragraph",
+      "text": "Three mathematicians uploaded a preprint last week that provides a rare insight into those resources. Alpöge had shared with them the LLM output from one of his summer breakthroughs. They used it to estimate that the discovery—which was several times less ambitious than many of Alpöge’s other projects—cost up to $4 million worth of computing resources. An Anthropic representative declined to comment on the estimate. Whatever Anthropic’s “allowance” for Alpöge is, it’s not an especially cheap one. (Similarly, OpenAI CEO Sam Altman recently acknowledged that costs for his company’s math efforts reached more than $100 million.) For reference, in 2026 the National Science Foundation, the largest U.S. funder of math research, invested about $200 million in the field."
+    },
+    {
+      "type": "paragraph",
+      "text": "“Anthropic should release how much this costs. How many tens of millions of dollars are in their budget to solve math problems?” says N.Y.U. mathematician Nestor Guillen. In mid-October, Guillen notes, Anthropic and OpenAI each committed $5 million in funding and resources to a joint initiative with the Simons Foundation to help mathematicians understand recent AI breakthroughs. “Would they agree to increase that money to match what they give an employee working on a ‘weekend hobby?’” he asks."
+    },
+    {
+      "type": "paragraph",
+      "text": "After their afternoon walk in Aspen, Armstrong and Alpöge parted ways, heading back to their respective hotel rooms, where each had a number of agents churning on their current math problems. What Alpöge was working on, he did not disclose."
+    },
+    {
+      "type": "paragraph",
+      "text": "Alpöge and Claude’s successes on Riemann happened in spurts throughout October and November. In the early hours of November 16, they did the impossible. That was when Alpöge wrote to Anthropic’s CEO Dario Amodei, who asked him to save the announcement until after the company’s initial public offering (IPO) that Friday."
+    },
+    {
+      "type": "paragraph",
+      "text": "That day Alpöge visited Princeton University, where he told Bhargava and mathematician Peter Sarnak what he’d accomplished, swearing them to secrecy and asking their advice. “It was surreal,” Sarnak says. “He was in a pretty excited state.” Alpöge spent the rest of the week holed up in Buckmaster’s N.Y.U. office, their old war room during the Navier-Stokes drama, where they now strategized the release of the Riemann proof."
+    },
+    {
+      "type": "paragraph",
+      "text": "Drained but exhilarated, they wrapped up their work early on Friday morning and walked to the touristy Caffe Reggio on MacDougal Street, the only place nearby that was still serving decent coffee past 2 A.M."
+    },
+    {
+      "type": "paragraph",
+      "text": "Love him or hate him, Alpöge has given mathematicians a human face to represent the AI revolution, to project their feelings onto as their world is turned upside down. In his statement about the Riemann proof, Alpöge gave ample praise to Claude—“Claude flew, and danced, and sparkled near that finish line.” But he also highlighted his own agency. “It was my secret in my student days that my plans were for this problem,” he wrote. He used a machine to beat everyone, yes, but he remains a key ingredient. The story he has spun is one of triumphant partnership, portending a bright future for math—a modern retelling of the same “lone genius” story math has always been obsessed with, updated for the AI era."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether he’s a visionary genius or a corporate face, his process and his foibles are a stark glimpse into math’s new, supercharged future—AI psychosis included. Riemann being solved won’t cure cancer or stop global warming. It probably won’t change your life in any noticeable way. But it marks a turning point nonetheless, one whose import will only be fully known to our future selves."
+    },
+    {
+      "type": "paragraph",
+      "text": "The upload finished shortly after 8 A.M. on November 20. Alpöge texted Buckmaster the link to his website and instructed him to pass it to Armstrong. “Levent and I always joked, ‘If we ever need anything leaked, we’ll just give it to Scott,’” Buckmaster says. Armstrong posted it to X immediately. It was done."
+    },
+    {
+      "type": "paragraph",
+      "text": "But what if there was a bug? Alpöge realized he hadn’t had time to compile the code on his own machine before uploading it. Could something have gotten garbled in the process? People around the world would download his code, and it would crash, making them doubt his claim."
+    },
+    {
+      "type": "paragraph",
+      "text": "It was done—the files were already online; the world already informed. But he had to know. Bleary-eyed, he started up his compiler. He could sleep once he knew he’d won."
+    },
+    {
+      "type": "paragraph",
+      "text": "\\**Editor’s Note (11/25/26): This sentence was edited after posting to correct the description of Levent Alpöge’s record in the “pig’s trough” challenge.*"
+    }
+  ],
+  "block_count": 61,
+  "paragraph_count": 61,
+  "heading_count": 0
+}
