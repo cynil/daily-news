@@ -1,0 +1,397 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T09:06:35+08:00",
+  "target": 5,
+  "saved": 5,
+  "output_dir": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-27",
+  "sources": [
+    {
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/rss",
+      "found": 0,
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.theguardian.com/world/rss"
+    },
+    {
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/science/rss",
+      "found": 0,
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.theguardian.com/science/rss"
+    },
+    {
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/rss",
+      "found": 0,
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.theguardian.com/technology/rss"
+    },
+    {
+      "source": "The New Yorker",
+      "url": "https://www.newyorker.com/feed/everything",
+      "found": 10,
+      "error": ""
+    },
+    {
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/",
+      "found": 10,
+      "error": ""
+    },
+    {
+      "source": "The Economist",
+      "url": "https://www.economist.com/rss",
+      "found": 0,
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.economist.com/rss"
+    },
+    {
+      "source": "BBC News",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "found": 10,
+      "error": ""
+    },
+    {
+      "source": "NPR",
+      "url": "https://feeds.npr.org/1001/rss.xml",
+      "found": 10,
+      "error": ""
+    },
+    {
+      "source": "Quanta Magazine",
+      "url": "https://api.quantamagazine.org/feed/",
+      "found": 5,
+      "error": ""
+    },
+    {
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/feed/",
+      "found": 10,
+      "error": ""
+    },
+    {
+      "source": "The Conversation",
+      "url": "https://theconversation.com/articles.atom",
+      "found": 10,
+      "error": ""
+    },
+    {
+      "source": "Nature",
+      "url": "https://www.nature.com/nature.rss",
+      "found": 10,
+      "error": ""
+    }
+  ],
+  "articles": [
+    {
+      "status": "saved",
+      "source": "The New Yorker",
+      "title": "My War Against Leaf Blowers and Other Noise Crimes",
+      "author": "Sarah Miller",
+      "published": "2026-11-26",
+      "url": "https://www.newyorker.com/culture/personal-history/my-lonely-war-against-noise",
+      "path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-27\\01_the-new-yorker_2026-11-26_my-war-against-leaf-blowers-and-other-noise-crimes.md",
+      "word_count": 2787,
+      "paragraphs": 33,
+      "json_path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-27\\01_the-new-yorker_2026-11-26_my-war-against-leaf-blowers-and-other-noise-crimes.json"
+    },
+    {
+      "status": "saved",
+      "source": "Scientific American",
+      "title": "How the Galileo musical’s composer sets science to a score on Broadway",
+      "author": "Emma Gometz",
+      "published": "2026-11-25",
+      "url": "https://www.scientificamerican.com/article/how-the-galileo-musicals-composer-sets-science-to-a-score-on-broadway",
+      "path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-27\\02_scientific-american_2026-11-25_how-the-galileo-musical-s-composer-sets-science-to-a-score-on-broadway.md",
+      "word_count": 1408,
+      "paragraphs": 20,
+      "json_path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-27\\02_scientific-american_2026-11-25_how-the-galileo-musical-s-composer-sets-science-to-a-score-on-broadway.json"
+    },
+    {
+      "status": "saved",
+      "source": "BBC News",
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "author": "Jessica Parker; Tom Beal",
+      "published": "2026-11-26",
+      "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo",
+      "path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-27\\03_bbc-news_2026-11-26_german-boat-dealer-suspected-of-supplying-channel-smuggling-gangs-bbc-fi.md",
+      "word_count": 1262,
+      "paragraphs": 47,
+      "json_path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-27\\03_bbc-news_2026-11-26_german-boat-dealer-suspected-of-supplying-channel-smuggling-gangs-bbc-fi.json"
+    },
+    {
+      "status": "saved",
+      "source": "NPR",
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "author": "The Associated Press",
+      "published": "2026-11-26",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+      "path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-27\\04_npr_2026-11-26_north-korea-s-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trum.md",
+      "word_count": 808,
+      "paragraphs": 17,
+      "json_path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-27\\04_npr_2026-11-26_north-korea-s-kim-vows-to-build-more-nuclear-weapons-after-ignoring-trum.json"
+    },
+    {
+      "status": "saved",
+      "source": "Quanta Magazine",
+      "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing.",
+      "author": "Charlie Wood",
+      "published": "2026-11-16",
+      "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116",
+      "path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-27\\05_quanta-magazine_2026-11-16_what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missin.md",
+      "word_count": 2240,
+      "paragraphs": 36,
+      "json_path": "C:\\Users\\zhoulianjian\\WorkBuddy\\automation-2026-11-21-13-34-31\\articles\\2026-11-27\\05_quanta-magazine_2026-11-16_what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missin.json"
+    }
+  ],
+  "skipped": [
+    {
+      "status": "skipped",
+      "source": "The New Yorker",
+      "title": "Daily Cartoon: Thursday, November 26th",
+      "url": "https://www.newyorker.com/cartoons/daily-cartoon/thursday-november-26th-make-a-toast",
+      "reason": "podcast/cartoon/guide/short-form item, not a full article"
+    },
+    {
+      "status": "skipped",
+      "source": "The New Yorker",
+      "title": "Aaron Sorkin on Hollywood’s Vision of American Politics",
+      "url": "https://www.newyorker.com/podcast/political-scene/aaron-sorkin-on-hollywoods-vision-of-american-politics",
+      "reason": "podcast/cartoon/guide/short-form item, not a full article"
+    },
+    {
+      "status": "skipped",
+      "source": "The New Yorker",
+      "title": "A Ukrainian Soldier Processes the Trauma of War in “Rotation”",
+      "url": "https://www.newyorker.com/culture/screening-room/a-ukrainian-soldier-processes-the-trauma-of-war-in-rotation",
+      "reason": "too few paragraphs (2 < 5)"
+    },
+    {
+      "status": "skipped",
+      "source": "NPR",
+      "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+      "reason": "too short (375 words < 400), likely teaser or podcast transcript"
+    },
+    {
+      "status": "skipped",
+      "source": "Nature",
+      "title": "Editorial Expression of Concern: Dual control of nuclear EIN3 by bifurcate MAPK cascades in C<sub>2</sub>H<sub>4</sub> signalling",
+      "url": "https://www.nature.com/articles/s41586-026-11475-7",
+      "reason": "too short (211 words < 400), likely teaser or podcast transcript"
+    },
+    {
+      "status": "skipped",
+      "source": "BBC News",
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+      "reason": "body too short (323 chars < 1200), likely truncated or non-article"
+    },
+    {
+      "status": "skipped",
+      "source": "The Conversation",
+      "title": "Whispering Jack: John Farnham musical is a triumph of big hits and stratospheric vocals",
+      "url": "https://theconversation.com/whispering-jack-john-farnham-musical-is-a-triumph-of-big-hits-and-stratospheric-vocals-296836",
+      "reason": "sponsored/advertorial content: presented by"
+    },
+    {
+      "status": "skipped",
+      "source": "The New Yorker",
+      "title": "The Complicated Love Story Behind “Consider the Oyster”",
+      "url": "https://www.newyorker.com/books/second-read/the-complicated-love-story-behind-consider-the-oyster",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The New Yorker",
+      "title": "The Price of an Iranian Life",
+      "url": "https://www.newyorker.com/news/the-lede/the-price-of-an-iranian-life",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The New Yorker",
+      "title": "Four Books That Will Make You Hungry",
+      "url": "https://www.newyorker.com/books/what-were-reading/four-books-that-will-make-you-hungry",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The New Yorker",
+      "title": "Turkeys I Have Known and Loved",
+      "url": "https://www.newyorker.com/culture/the-food-scene/turkeys-i-have-known-and-loved",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The New Yorker",
+      "title": "The Many Faces of Running",
+      "url": "https://www.newyorker.com/humor/shouts-murmurs/the-many-faces-of-running",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Scientific American",
+      "title": "Slime molds beat mathematicians at complex problems",
+      "url": "https://www.scientificamerican.com/article/slime-molds-beat-mathematicians-at-complex-problems/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Scientific American",
+      "title": "The hidden math behind retail sales’ price guarantees",
+      "url": "https://www.scientificamerican.com/article/the-hidden-math-behind-this-paradoxical-black-friday-sale-strategy/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Scientific American",
+      "title": "Anthropic mathematician proves Riemann hypothesis, most famous problem in all of math",
+      "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Scientific American",
+      "title": "AI helped solve my favorite math problem. Why can’t I celebrate?",
+      "url": "https://www.scientificamerican.com/article/why-ais-proof-of-the-riemann-hypothesis-is-so-bittersweet/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Scientific American",
+      "title": "The U.S. Army just blew up five tons of toxic lead azide in Iowa",
+      "url": "https://www.scientificamerican.com/article/the-u-s-army-is-blowing-up-five-tons-of-toxic-lead-azide-in-iowa/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Scientific American",
+      "title": "What does the Riemann hypothesis proof mean for encryption?",
+      "url": "https://www.scientificamerican.com/article/why-solving-the-riemann-hypothesis-wont-break-encryption/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Scientific American",
+      "title": "This is the best time to eat Thanksgiving dinner for your health",
+      "url": "https://www.scientificamerican.com/article/this-is-the-best-time-to-eat-thanksgiving-dinner-for-your-health/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Scientific American",
+      "title": "In 2022 NASA struck an asteroid. Now we are finally seeing the massive impact up close",
+      "url": "https://www.scientificamerican.com/article/in-2022-nasa-struck-an-asteroid-now-we-are-finally-seeing-the-massive-impact-up-close/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "BBC News",
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "BBC News",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "NPR",
+      "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
+      "url": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Quanta Magazine",
+      "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+      "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Quanta Magazine",
+      "title": "The Incredible, Elegant DNA Repair System Makes Gene Editing Work",
+      "url": "https://www.quantamagazine.org/the-incredible-elegant-dna-repair-system-makes-gene-editing-work-20261123/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Quanta Magazine",
+      "title": "How M.C. Escher’s Art Creates Bizarre Mathematical Worlds",
+      "url": "https://www.quantamagazine.org/how-m-c-eschers-art-creates-bizarre-mathematical-worlds-20261118/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "MIT Technology Review",
+      "title": "The next generation of bionic hands is here—and they can feel",
+      "url": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "MIT Technology Review",
+      "title": "The Download: AI swamping open records, and firefighting for permafrost",
+      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "MIT Technology Review",
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "MIT Technology Review",
+      "title": "How data centers are driving a US natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The Conversation",
+      "title": "In the digital age, the ABC is more important than ever. Margaret Simons’ new book reveals why",
+      "url": "https://theconversation.com/in-the-digital-age-the-abc-is-more-important-than-ever-margaret-simons-new-book-reveals-why-296838",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The Conversation",
+      "title": "Elon Musk has approval to launch 1 million satellites. An astronomer explains how this would impact the sky",
+      "url": "https://theconversation.com/elon-musk-has-approval-to-launch-1-million-satellites-an-astronomer-explains-how-this-would-impact-the-sky-297646",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "The Conversation",
+      "title": "The Coconut Children is a tender coming-of-age story about taking root between two worlds",
+      "url": "https://theconversation.com/the-coconut-children-is-a-tender-coming-of-age-story-about-taking-root-between-two-worlds-297659",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Nature",
+      "title": "Navigating grief in academia: ways to find balance",
+      "url": "https://www.nature.com/articles/d41586-026-02752-6",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Nature",
+      "title": "Has AI just cracked Internet encryption? Rumoured ‘bombshell’ stuns scientists",
+      "url": "https://www.nature.com/articles/d41586-026-03875-6",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    },
+    {
+      "status": "skipped",
+      "source": "Nature",
+      "title": "Chromosome ‘glue’ could boost fertility by stabilizing ageing eggs",
+      "url": "https://www.nature.com/articles/d41586-026-03874-7",
+      "reason": "not selected: daily target filled by higher-priority/diverse articles"
+    }
+  ]
+}
