@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T04:03:46+08:00",
+  "requested": 3,
+  "selected": 3,
+  "source_repo": "https://github.com/hehonghui/awesome-english-ebooks",
+  "issue": {
+    "publication": "The Economist",
+    "issue": "2026-11-28",
+    "file": "01_economist/te_2026.11.28/TheEconomist.2026.11.28.epub"
+  },
+  "criteria": {
+    "requested_count": 3,
+    "full_text_only": true,
+    "exclude_paywalled_without_full_text": true,
+    "exclude_podcast_video_gallery": true,
+    "exclude_sponsored_or_advertorial": true,
+    "reading_length": "英语母语者约5-10分钟，正文1000-2500词",
+    "cross_day_dedup": true,
+    "dedup_scope": "2026-11-21 至 2026-11-27 已发布 content.json（含标题与URL）"
+  },
+  "selected_articles": [
+    {
+      "source": "The Economist",
+      "title": "Can America’s government afford “affordability”?",
+      "published": "2026-11-25",
+      "word_count": 1393,
+      "url": "https://www.economist.com/finance-and-economics/2026/11/25/can-americas-government-afford-affordability",
+      "file": "01_the-economist_2026-11-25_can-americas-government-afford-affordability.md"
+    },
+    {
+      "source": "The Economist",
+      "title": "The Gulf survived a short, hot war. A long, cold one will be harder",
+      "published": "2026-11-24",
+      "word_count": 1249,
+      "url": "https://www.economist.com/middle-east-and-africa/2026/11/24/the-gulf-survived-a-short-hot-war-a-long-cold-one-will-be-harder",
+      "file": "02_the-economist_2026-11-24_the-gulf-survived-a-short-hot-war-a-long-cold-one-will-be-harder.md"
+    },
+    {
+      "source": "The Economist",
+      "title": "How the manosphere cashes in on male insecurity",
+      "published": "2026-11-23",
+      "word_count": 1097,
+      "url": "https://www.economist.com/business/2026/11/23/how-the-manosphere-cashes-in-on-male-insecurity",
+      "file": "03_the-economist_2026-11-23_how-the-manosphere-cashes-in-on-male-insecurity.md"
+    }
+  ],
+  "notes": [
+    "3篇均从 awesome-english-ebooks 最新一期 The Economist（2026-11-28）EPUB 抽取全文，未改写、未编造。",
+    "已剔除栏目标题行、图片说明、zlibrary 下载页脚、通讯推广等非正文元素，保留原始正文措辞。",
+    "经与 2026-11-21 至 2026-11-27 已发布文章标题及 URL 比对，无重复。",
+    "3篇正文分别为 1393、1249、1097 词，按英语母语者约 200-240 词/分钟计，阅读时长约 5-7 分钟。"
+  ]
+}
